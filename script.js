@@ -1,7 +1,7 @@
 // ========== USUARIOS AUTORIZADOS ==========
 const USERS = [
     { username: "zay", password: "zaypro2030", expiresAt: new Date("2026-12-31"), emails: ["vicenzohenaoj@gmail.com","malimayita@gmail.com","tauro202709@gmail.com","seven202709@gmail.com"] },
-    { username: "ser", password: "cliente", expiresAt: new Date("2027-10-15"), emails: ["red202709@gmail.com","anaipro202609@gmail.com","mariana202709@gmail.com","luufygoofy202709@gmail.com","magivalenzuela001@gmail.com","alexaramirez202709@gmail.com"] },
+    { username: "ser", password: "cliente", expiresAt: new Date("2027-10-15"), emails: ["red202709@gmail.com","mariana202709@gmail.com","luufygoofy202709@gmail.com","magivalenzuela001@gmail.com","alexaramirez202709@gmail.com"] },
     { username: "cl2", password: "cl2", expiresAt: new Date("2027-12-12"), emails: ["matrix202771@gmail.com","luzvelez202709@gmail.com","randonreex20230@gmail.com","apolopremium50@gmail.com","scoria001@gmail.com"] },
     { username: "cl3", password: "cl3", expiresAt: new Date("2027-12-12"), emails: ["carnotauro202771@gmail.com","neshatico202709@gmail.com","marcoantoniomaque32@gmail.com","rayo202709@gmail.com","magodeoz202709@gmail.com"] },
     { username: "cl4", password: "cl4", expiresAt: new Date("2027-12-12"), emails: ["nicolhamlet@gmail.com","acuario202771@gmail.com","verizon202771@gmail.com","fenix202771@gmail.com","carlosbrey202709@gmail.com"] },
